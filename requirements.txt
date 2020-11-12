@@ -8,7 +8,7 @@ djangorestframework-simplejwt==4.4.0
 django-queryset-csv==1.1.0
 tldextract==2.2.3
 lxml==4.5.2
-requests==2.24.0
+requests==2.25.0
 Markdown==3.3
 ansi2html==1.5.2
 tabulate==0.8.7

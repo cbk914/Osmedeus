@@ -6,8 +6,13 @@ djangorestframework==3.12.2
 djangorestframework-jsonp==1.0.2
 djangorestframework-simplejwt==4.6.0
 django-queryset-csv==1.1.0
+<<<<<<< HEAD
 tldextract==2.2.3
 lxml==4.6.2
+=======
+tldextract==3.1.0
+lxml==4.5.2
+>>>>>>> a29fcc200cd9a967ae2356fab6932eae843c13f7
 requests==2.25.1
 Markdown==3.3.3
 ansi2html==1.6.0

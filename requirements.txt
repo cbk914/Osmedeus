@@ -12,5 +12,5 @@ requests==2.24.0
 Markdown==3.3.3
 ansi2html==1.5.2
 tabulate==0.8.7
-slackclient==2.9.1
+slackclient==2.9.3
 csvkit==1.0.5

@@ -1,16 +1,32 @@
 bs4==0.0.1
+<<<<<<< HEAD
 Django==3.1.2
 django-cors-headers==3.6.0
+=======
+Django==3.1.4
+django-cors-headers==3.5.0
+>>>>>>> master
 django-filter==2.4.0
 djangorestframework==3.12.2
 djangorestframework-jsonp==1.0.2
 djangorestframework-simplejwt==4.6.0
 django-queryset-csv==1.1.0
+<<<<<<< HEAD
 tldextract==2.2.3
+lxml==4.6.2
+<<<<<<< HEAD
+requests==2.24.0
+Markdown==3.3
+ansi2html==1.5.2
+=======
+=======
+tldextract==3.1.0
 lxml==4.5.2
+>>>>>>> a29fcc200cd9a967ae2356fab6932eae843c13f7
 requests==2.25.1
 Markdown==3.3.3
-ansi2html==1.5.2
+ansi2html==1.6.0
+>>>>>>> master
 tabulate==0.8.7
 slackclient==2.9.3
 csvkit==1.0.5
